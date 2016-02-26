@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Kota Furusawa",
+    "label": "Front-End Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAItAAAAJGY2MWJlODRmLTgxN2QtNGVkMC1iYzRjLTVlZDU2NGZkNzkwZQ.jpg",
+    "email": "kota.frsw@gmail.com",
+    "phone": "",
+    "website": "http://moschan.com/blog",
+    "summary": "*Experience full life cycle of system development *Developing web applications using, CSS3, JavaScript, HTML5 ensuring maintainability, cross-browser compatibility, and performance. *Improving display speed on the websites by analyzing and solving of  its problems *Conducting code review using Git and pull Request *Building using gulp, brouserify, sass and compass. *Creating style guide and clear the site module  *Programming on server side using PHP *Conducting AB test, Measuring CTR and improving UI *Facilitating seminars about the web service and giving presentations in front of Colleagues(attendance 40) and engineers(attendance 10) *Facilitating gathering and seminars with other web engineers from different companies once in 3 months. The community is over 70 engineers.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Asia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "moschann",
+        "url": "https://twitter.com/moschann"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cloud Consulting Pte., Ltd.",
+      "position": "Software Engineer",
+      "website": "http://www.cloud-consulting.asia/en/",
+      "startDate": "2015-10-1",
+      "endDate": "",
+      "summary": "Python, Django, React, React Native",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Conversation"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
