@@ -29,7 +29,7 @@
       "website": "http://www.cloud-consulting.asia/en/",
       "startDate": "2015-10-1",
       "endDate": "",
-      "summary": "Python, Django, React, React Native, Three.js",
+      "summary": "Python, Django, React, React Native, Three.js, jQuery, Vim",
       "highlights": []
     }
   ],
@@ -45,7 +45,9 @@
         "HTML",
         "CSS",
         "Javascript",
-        "Python"
+        "Python",
+        "npm",
+        "gulp"
       ]
     }
   ],
