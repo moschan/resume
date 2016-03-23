@@ -47,7 +47,8 @@
         "Javascript",
         "Python",
         "npm",
-        "gulp"
+        "gulp",
+        "webpack"
       ]
     }
   ],
