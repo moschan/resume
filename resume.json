@@ -48,7 +48,8 @@
         "Python",
         "npm",
         "gulp",
-        "webpack"
+        "webpack",
+        "SMACSS"
       ]
     }
   ],
