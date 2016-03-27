@@ -50,6 +50,7 @@
         "gulp",
         "webpack",
         "SMACSS",
+        "React",
         "React Native"
       ]
     }
