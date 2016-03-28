@@ -51,7 +51,9 @@
         "webpack",
         "SMACSS",
         "React",
-        "React Native"
+        "React Native",
+        "sass",
+        "compass"
       ]
     }
   ],
