@@ -53,7 +53,8 @@
         "React",
         "React Native",
         "sass",
-        "compass"
+        "compass",
+        "Browserify"
       ]
     }
   ],
