@@ -55,7 +55,8 @@
         "sass",
         "compass",
         "Browserify",
-        "Python"
+        "Python",
+        "Django"
       ]
     }
   ],
