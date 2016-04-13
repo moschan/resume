@@ -61,7 +61,8 @@
         "Illustrator",
         "Pixelmator",
         "DeveloperTools",
-        "iTerm2"
+        "iTerm2",
+        "tmux"
       ]
     }
   ],
