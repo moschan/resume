@@ -62,7 +62,8 @@
         "Pixelmator",
         "DeveloperTools",
         "iTerm2",
-        "tmux"
+        "tmux",
+        "Vim"
       ]
     }
   ],
