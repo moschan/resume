@@ -50,6 +50,7 @@
         "gulp",
         "webpack",
         "SMACSS",
+        "BEM",
         "React",
         "React Native",
         "sass",
@@ -63,7 +64,8 @@
         "DeveloperTools",
         "iTerm2",
         "tmux",
-        "Vim"
+        "Vim",
+        ""
       ]
     }
   ],
