@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && npm run build",
+    "build": "resume export dist/resume.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moschan/resume.git"
+  },
+  "author": "moschan <kaityo02＠gmail.com> (http://moschan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moschan/resume/issues"
+  },
+  "homepage": "https://github.com/moschan/resume#readme",
+  "devDependencies": {
+    "resume-cli": "^0.4.19"
+  }
+}
