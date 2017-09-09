@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm install && npm run build",
-    "build": "resume export dist/index.html --theme crisp",
+    "build": "resume export dist/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/moschan/resume#readme",
   "devDependencies": {
-    "jsonresume-theme-stackoverflow": "^1.2.0",
     "resume-cli": "^0.4.19"
   }
 }
